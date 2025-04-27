@@ -19,7 +19,7 @@ const FlyingBalloons: React.FC = () => {
 
 const InitialCard: React.FC<{ onNext: () => void }> = ({ onNext }) => {
   const messages = [
-    "Welcome Gayuuu Patil!","Good Morning!",
+    "Welcome Gayuuu Patil!","Good Morning!","Good Afternoon!(Mala vatla sakalich bghnar ata he add karav lagel!)",
     "It's been so many days and i haven't played a game with you!",
     "So..........!",
     "Let's play a game!"
